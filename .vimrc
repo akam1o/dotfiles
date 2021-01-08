@@ -1,6 +1,7 @@
 "display
 syntax on
 set showmatch
+set ruler
 
 "input
 set shiftwidth=4
